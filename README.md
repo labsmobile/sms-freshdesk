@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/152215067?s=200&v=4" height="80">
 </p>
 
-# LabsMobile-Moodle
+# LabsMobile-Freshdesk
 
 ![](https://img.shields.io/badge/version-1.0.0-blue.svg)
  
